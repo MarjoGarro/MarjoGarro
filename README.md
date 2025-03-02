@@ -30,7 +30,7 @@
   </p>
 
   <hr>
-  <h2 align="center">✨ Programming languages and tools for which I have basic and proficient knowledge ✨</h2>
+  <h3 align="center">✨ Programming languages and tools for which I have basic and proficient knowledge ✨</h3>
   <br>
   <p align="center">
 	<a href="https://en.cppreference.com/w/" target="_blank">
@@ -245,23 +245,19 @@
     <p valign="top" width="32%" height="180px">
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"> <img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarjoGarro&theme=react&border=61dafb&hide_border=true" alt="MarjoGarro" /></a>
     </p>
-	
-    </br>
-		  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarjoGarro&theme=react-dark" width="100%" />
-	  </br>
-		  <img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/ocean.svg" alt="GitHub Snake" width="100%"/>
+</br>
+  	<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarjoGarro&theme=react-dark" width="100%" />
+</br>
+	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/ocean.svg" alt="GitHub Snake" width="100%"/>
 </div>
-
-  <hr>
-  
+<hr>
   <h2 align="center">💻 Repositories 💻</h2>
-  <br>
-  <div width="100%" align="center">
-  </div>
-  <br>
-  <h4 align="center">
+<br>
+<div width="100%" align="center"> </div>
+<br>
+<h4 align="center">
     <a href="https://github.com/MarjoGarro?tab=repositories" title="Show Repositories">🔎 Look Here 🔍</a>
-  </h4>
+</h4>
   
 <!--
 **MarjoGarro/MarjoGarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
