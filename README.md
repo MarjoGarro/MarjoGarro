@@ -7,9 +7,9 @@
   </h1>
 
   <h5 align="center">
-    <code><a href="https://www.linkedin.com/in/marjo-garro/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
-    <code><a href="https://www.hackerrank.com/MarjoGarro" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/hackerrank.png"> HackerRank</a></code>
-    <code><a href="https://www.credly.com/users/marjo-garro/" title="Credly Profile"><img width="22" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png"> Credly</a></code>
+    <code><a href="https://www.linkedin.com/in/marjo-garro/" title="LinkedIn Profile"><img width="30" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://www.hackerrank.com/MarjoGarro" title="HackerRank Profile"><img width="30" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/hackerrank.png"> HackerRank</a></code>
+    <code><a href="https://www.credly.com/users/marjo-garro/" title="Credly Profile"><img width="30" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png"> Credly</a></code>
   </h5>
   <br>
   <p align="center">
@@ -20,7 +20,7 @@
     <br>
     🎓 I have finished my studies as a Mechatronic technician
     <br>
-    💻 Since I was a child I was very fascinated by computers and software programming 
+    💻 Since I was a child I was fascinated by computers and software programming 
     <br>
     📚 I love Software Engineering and keep learning daily about new technologies
     <br>
