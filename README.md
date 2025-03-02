@@ -7,9 +7,9 @@
   </h1>
 
   <h5 align="center">
-    <code><a href="https://www.linkedin.com/in/marjo-garro/" title="LinkedIn Profile"><img width="32" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg"> LinkedIn</a></code>
-    <code><a href="https://www.hackerrank.com/MarjoGarro" title="HackerRank Profile"><img width="32" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/hackerrank.png"> HackerRank</a></code>
-    <code><a href="https://www.credly.com/users/marjo-garro/" title="Credly Profile"><img width="32" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png"> Credly</a></code>
+    <code><a href="https://www.linkedin.com/in/marjo-garro/" title="LinkedIn Profile"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://www.hackerrank.com/MarjoGarro" title="HackerRank Profile"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/hackerrank.png"> HackerRank</a></code>
+    <code><a href="https://www.credly.com/users/marjo-garro/" title="Credly Profile"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png"> Credly</a></code>
   </h5>
   <br>
   <p align="center">
@@ -236,14 +236,14 @@
   <h2 align="center">⚡ Stats ⚡</h2>
   <br>
 <div style="margin-bottom:10px;margin:top:10px;height:170px">
-	<p valign="top" width="32%" height="180px">
-	    <a href="https://github.com/MarjoGarro/github-readme-stats" title="Go to Source"> <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=MarjoGarro" /></a>
+	<p valign="top" width="33%" height="200px">
+	    <a href="https://github.com/MarjoGarro/github-readme-stats" title="Go to Source"> <img align="left" width="32%" src="https://github-readme-stats.vercel.app/api?username=MarjoGarro" /></a>
     </p>
-    <p valign="top" width="32%;" height="180px">
-	    <a href="https://github.com/MarjoGarro/convoychat"> <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" /> </a>
+    <p valign="top" width="33%;" height="200px">
+	    <a href="https://github.com/MarjoGarro/convoychat"> <img align="left" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" /> </a>
     </p>
-    <p valign="top" width="32%" height="180px">
-            <a href="#" title="Go to Source"> <img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarjoGarro&theme=react&border=61dafb&hide_border=true" alt="MarjoGarro" /></a>
+    <p valign="top" width="33%" height="200px">
+            <a href="#" title="Go to Source"> <img align="left" width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarjoGarro&theme=react&border=61dafb&hide_border=true" alt="MarjoGarro" /></a>
     </p>
 </br>
   	<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarjoGarro&theme=react-dark" width="100%" />
@@ -261,11 +261,6 @@
   
 <!--
 **MarjoGarro/MarjoGarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?
-<img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarjoGarro&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
-username=MarjoGarro&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-https://github.com/anuraghazra/github-readme-stats
-https://github.com/denvercoder1/github-readme-streak-stats
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
