@@ -237,13 +237,13 @@
   <br>
 <div style="margin-bottom:10px;margin:top:10px;height:170px">
 	<p valign="top" width="32%" height="220px">
-	    <a href="https://github.com/MarjoGarro/github-readme-stats" title="Go to Source"> <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=MarjoGarro" /></a>
+	    <a href="https://github.com/MarjoGarro/github-readme-stats" title="Go to Source"> <img align="left" width="30%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MarjoGarro" /></a>
     </p>
     <p valign="top" width="32%;" height="220px">
-	    <a href="https://github.com/MarjoGarro/convoychat"> <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" /> </a>
+	    <a href="https://github.com/MarjoGarro/convoychat"> <img align="left" width="30%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" /> </a>
     </p>
     <p valign="top" width="32%" height="220px">
-            <a href="#" title="Go to Source"> <img align="left" width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarjoGarro&theme=react&border=61dafb&hide_border=true" alt="MarjoGarro" /></a>
+            <a href="#" title="Go to Source"> <img align="left" width="30%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=MarjoGarro&theme=react&border=61dafb&hide_border=true" alt="MarjoGarro" /></a>
     </p>
 </br>
   	<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarjoGarro&theme=react-dark" width="100%" />
