@@ -7,9 +7,9 @@
   </h1>
 
   <h5 align="center">
-    <code><a href="https://www.linkedin.com/in/marjo-garro/" target="_blank" title="LinkedIn Profile"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg"> LinkedIn</a></code>
-    <code><a href="https://www.hackerrank.com/MarjoGarro" target="_blank" title="HackerRank Profile"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/hackerrank.png"> HackerRank</a></code>
-    <code><a href="https://www.credly.com/users/marjo-garro/" target="_blank" title="Credly Profile"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png"> Credly</a></code>
+    <code><a href="https://www.linkedin.com/in/marjo-garro/" title="LinkedIn" Profile target="_blank"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://www.hackerrank.com/MarjoGarro" title="HackerRank Profile" target="_blank"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/hackerrank.png"> HackerRank</a></code>
+    <code><a href="https://www.credly.com/users/marjo-garro/" title="Credly Profile" target="_blank"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png"> Credly</a></code>
   </h5>
   <br>
   <p align="center">
