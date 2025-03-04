@@ -5,9 +5,9 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Here+is+Marjo+Garro...;Welcome+to+my+GitHub!&center=true&size=30">
     </a>
   </h1>
-<!--  href="https://www.linkedin.com/in/marjo-garro/" -->
+
   <h5 align="center">
-    <code><a href="#" onclick='window.open("https://www.linkedin.com/in/marjo-garro/"); return false;' title="LinkedIn Profile" target="_blank"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://www.linkedin.com/in/marjo-garro/" title="LinkedIn Profile" target="_blank"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg"> LinkedIn</a></code>
     <code><a href="https://www.hackerrank.com/MarjoGarro" title="HackerRank Profile" target="_blank"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/hackerrank.png"> HackerRank</a></code>
     <code><a href="https://www.credly.com/users/marjo-garro/" title="Credly Profile" target="_blank"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png"> Credly</a></code>
   </h5>
@@ -236,13 +236,13 @@
   <h2 align="center">⚡ Stats ⚡</h2>
   <br>
 <div style="margin-bottom:10px;margin:top:10px;height:170px">
-	<p valign="top" width="32%" height="200px">
+	<p valign="top" width="30%" height="200px">
 	    <a href="#" title="Go to Source"> <img align="left" width="30%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MarjoGarro" /></a>
     </p>
-    <p valign="top" width="32%;" height="200px">
+    <p valign="top" width="30%;" height="200px">
 	    <a href="#"> <img align="left" width="30%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" /> </a>
     </p>
-    <p valign="top" width="32%" height="200px">
+    <p valign="top" width="30%" height="200px">
             <a href="#" title="Go to Source"> <img align="left" width="30%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=MarjoGarro&theme=react&border=61dafb&hide_border=true" /></a>
     </p>
 </br>
