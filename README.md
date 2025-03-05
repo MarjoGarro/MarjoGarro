@@ -236,12 +236,12 @@
   <h2 align="center">⚡ Stats ⚡</h2>
   <br>
   
-<div style="margin-bottom:10px; margin:top:10px; height:200px">
+<div style="margin-bottom:10px; margin:top:10px; height:220px">
 	<p valign="top" width="50%" height="200px">
-	    <a href="#" title="Go to Source"> <img align="left" width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MarjoGarro" /></a>
+	    <a href="#" title="Go to Source"> <img align="left" width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MarjoGarro" /></a>
 	</p>
 	<p valign="top" width="50%;" height="200px">
-	    <a href="#"> <img align="left" width="48%" height="200px" src="https://git-hub-streak-stats.vercel.app?user=MarjoGarro" /> </a>
+	    <a href="#"> <img align="left" width="48%" height="180px" src="https://git-hub-streak-stats.vercel.app?user=MarjoGarro" /> </a>
 	</p>
 </br>
   	<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarjoGarro&theme=react-dark" width="100%" />
@@ -261,9 +261,6 @@
 <!--
 **MarjoGarro/MarjoGarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-https://github-readme-streak-stats.herokuapp.com/?user=MarjoGarro&theme=react&border=61dafb&hide_border=true
-https://github-readme-stats.vercel.app/api/top-langs?username=MarjoGarro&layout=compact&langs_count=8&card_width=320
-https://streak-stats.demolab.com/?user=MarjoGarro&theme=dark
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
