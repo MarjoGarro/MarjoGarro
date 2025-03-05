@@ -244,7 +244,7 @@
 	    <a href="#"> <img align="left" width="30%" height="200px" src="https://git-hub-streak-stats.vercel.app?user=MarjoGarro" /> </a>
     </p>
     <p valign="top" width="32%" height="200px">
-            <a href="#" title="Go to Source"> <img align="left" width="30%" height="200px" src="https://streak-stats.demolab.com/?user=MarjoGarro&theme=dark" /></a>
+            <a href="#" title="Go to Source"> <img align="left" width="30%" height="200px" src="https://streak-stats.demolab.com/?user=MarjoGarro" /></a>
     </p>
 	
 </br>
@@ -266,6 +266,7 @@
 Here are some ideas to get you started:
 https://github-readme-streak-stats.herokuapp.com/?user=MarjoGarro&theme=react&border=61dafb&hide_border=true
 https://github-readme-stats.vercel.app/api/top-langs?username=MarjoGarro&layout=compact&langs_count=8&card_width=320
+https://streak-stats.demolab.com/?user=MarjoGarro&theme=dark
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
