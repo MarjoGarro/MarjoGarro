@@ -18,7 +18,7 @@
     <br>
     💻 I’m currently working with Real Time Linux Embedded Programming
     <br>
-    🎓 I have finished my studies as a Mechatronic technician
+    🎓 I finished my studies in Mechatronics field
     <br>
     💻 Since I was a child I was fascinated by computers and software programming 
     <br>
