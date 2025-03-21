@@ -1,3 +1,10 @@
+<div style="margin-bottom:10px; margin:top:10px; height:200px">
+
+</br>
+  	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/Matrix-Rain-4.svg" alt="GitHub Matrix" width="100%"/>
+</br>
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MarjoGarro.MarjoGarro" alt="visitor badge"/>
 
   <h1 align="center">
