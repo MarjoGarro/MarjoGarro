@@ -2,7 +2,7 @@
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Here+is+Marjo+Garro...;Welcome+to+my+GitHub!&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;Here+is+Marjo+Garro...;Welcome+to+my+GitHub!&center=true&size=30">
     </a>
   </h1>
 
@@ -13,7 +13,7 @@
   </h5>
   <br>
   <p align="center">
-    Hi, I'm Marjo Garro, I'm a Software Developer from Italy!
+    Hi, I'm a Software Developer from Italy!
     <br>
     <br>
     💻 I’m currently working with Real Time Linux Embedded Programming
@@ -24,9 +24,9 @@
     <br>
     📚 I love Software Engineering and keep learning daily about new technologies
     <br>
-    💬 Ask me anything about from <a href="https://github.com/MarjoGarro/MarjoGarro/issues" title="Issues">Here</a>
+    💬 Ask me anything about <a href="https://github.com/MarjoGarro/MarjoGarro/issues" title="Issues">Here</a>
     <br>
-    📫 You can reach me here: <a href="mailto: marjo.garro1@gmail.com">e-mail me</a>
+    📫 Or write an e-mail from : <a href="mailto: marjo.garro1@gmail.com">here</a>
   </p>
 
   <hr>
