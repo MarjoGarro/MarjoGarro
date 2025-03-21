@@ -24,9 +24,9 @@
     <br>
     📚 I love Software Engineering and keep learning daily about new technologies
     <br>
-    💬 Ask me anything about <a href="https://github.com/MarjoGarro/MarjoGarro/issues" title="Issues">Here</a>
+    💬 Ask me anything about <a href="https://github.com/MarjoGarro/MarjoGarro/issues" title="Issues">here</a>
     <br>
-    📫 Or write an e-mail from : <a href="mailto: marjo.garro1@gmail.com">here</a>
+    📫 Or write an e-mail from: <a href="mailto: marjo.garro1@gmail.com">here</a>
   </p>
 
   <hr>
