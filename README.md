@@ -19,18 +19,17 @@
   <p align="center">
     ⚡ I'm a Software Developer from Italy!
     <br>
+    🎓 I have studied Mechatronics
     <br>
     🐧 I’m currently working with Real Time Linux Embedded Programming
     <br>
-    🎓 I finished my studies in Mechatronics field
-    <br>
-    💻 Since I was a child I was fascinated by computers and software programming 
+    💻 Since a child I was fascinated by computers and software programming 
     <br>
     📚 I love Software Engineering and keep learning daily about new technologies
     <br>
     💬 Ask me anything about <a href="https://github.com/MarjoGarro/MarjoGarro/issues" title="Issues">here</a>
     <br>
-    📫 Or write an e-mail from: <a href="mailto: marjo.garro1@gmail.com">here</a>
+    📫 Or write me an e-mail <a href="mailto: marjo.garro1@gmail.com">here</a>
   </p>
 
   <hr>
