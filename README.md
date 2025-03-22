@@ -17,10 +17,10 @@
   </h5>
   <br>
   <p align="center">
-    Hi, I'm a Software Developer from Italy!
+    ⚡ I'm a Software Developer from Italy!
     <br>
     <br>
-    💻 I’m currently working with Real Time Linux Embedded Programming
+    🐧 I’m currently working with Real Time Linux Embedded Programming
     <br>
     🎓 I finished my studies in Mechatronics field
     <br>
