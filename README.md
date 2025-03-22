@@ -1,12 +1,12 @@
-<div style="margin-bottom:10px; margin:top:10px; height:300px">
-	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/Matrix-Rain-0.svg" alt="Matrix rain" width="100%"/>
+<div style="margin-bottom:10px; margin:top:10px; height:200px">
+	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/Matrix-Rain-XS.svg" alt="Matrix rain" width="100%"/>
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MarjoGarro.MarjoGarro" alt="visitor badge"/>
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;Here+is+Marjo+Garro...;Welcome+to+my+GitHub!&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;Welcome+to+my+GitHub!&center=true&size=30">
     </a>
   </h1>
 
