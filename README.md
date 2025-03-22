@@ -1,3 +1,7 @@
+<div style="margin-bottom:10px; margin:top:10px; height:300px">
+	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/Matrix-Rain-0.svg" alt="Matrix rain" width="100%"/>
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MarjoGarro.MarjoGarro" alt="visitor badge"/>
 
   <h1 align="center">
