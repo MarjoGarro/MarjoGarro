@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg 
+    width="1200" 
+    height="300" 
+    viewBox="0 0 1200 300" 
+    xmlns="http://www.w3.org/2000/svg"
+    style="background-color: black;">
+
+<text x="50%" y="50%" font-family="Brush Script MT" font-size="45" text-anchor="middle" dominant-baseline="middle" fill="DodgerBlue">
+<tspan fill="" font-weight="bold" font-style="italic">Hi, I'm Marjo Garro</tspan>
+<tspan x="50%" dy="1.2em" fill="" font-weight="bold" font-style="italic">Welcome to my profile</tspan></text>
+	
+  <style type="text/css"><![CDATA[
+    @keyframes fall {
+      0% { transform: translateY(-50px); opacity: 1; }
+      100% { transform: translateY(300px); opacity: 0; }
+    }
+    .falling {
+      animation-name: fall;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+	
+	@keyframes fall2 {
+      0% { transform: translateY(300px); opacity: 1; }
+      100% { transform: translateY(-50px); opacity: 0; }
+    }
+    .falling2 {
+      animation-name: fall2;
+      animation-timing-function: linear;
+      animation-iteration-count: infinite;
+    }
+  ]]></style>
+
+  <!--  Yes, I already know... your eyes might bleed like mine did while I was writing (copy/pasta) this :| 
+		A JS function would have solved all this in less than 10 lines... but as you know, we're on GitHub!
+		Cheers!!!  -->
+<!-- Chars Down -->
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="orange"
+    style="animation-duration: 6s; animation-delay: 0s;">A</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="yellow"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">G</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="blue"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">M</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="blue"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="red"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">D</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">z</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="red"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">h</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="50" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 10s; animation-delay: 0s;">l</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1.5s;">1</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">j</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1.5s;">1</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.8s;">C</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1.3s;">1</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">s</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1.6s;">1</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">o</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1.4s;">1</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.9s;">F</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1.6s;">1</text>
+
+<!-- Chars Down -->
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 14s; animation-delay: 0s;">t</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="18" fill="red"
+    style="animation-duration: 8s; animation-delay: 1s;">1</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="18" fill="orange"
+    style="animation-duration: 6.5s; animation-delay: 0.2s;">w</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 9.5s; animation-delay: 0.8s;">a</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="18" fill="purple"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9.2s; animation-delay: 1.2s;">r</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="18" fill="yellow"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8.8s; animation-delay: 0.4s;">E</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="18" fill="white"
+    style="animation-duration: 6.5s; animation-delay: 0.9s;">F</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 6.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="150" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0s;">i</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">p</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">t</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">D</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">Q</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">H</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+
+<!-- Chars Down -->
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="12" fill="red"
+    style="animation-duration: 14s; animation-delay: 0s;">A</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1s;">1</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="18" fill="yellow"
+    style="animation-duration: 6.5s; animation-delay: 0.2s;">S</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="12" fill="white"
+    style="animation-duration: 9.5s; animation-delay: 0.8s;">X</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="18" fill="blue"
+    style="animation-duration: 9.2s; animation-delay: 1.2s;">D</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8.8s; animation-delay: 0.4s;">Z</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="18" fill="purple"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6.5s; animation-delay: 0.9s;">M</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 6.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="250" y="0" font-family="monospace" font-size="18" fill="red"
+    style="animation-duration: 9.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0s;">G</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">V</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">m</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">R</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">K</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">L</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="300" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+
+<!-- Chars Down -->
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="12" fill="red"
+    style="animation-duration: 14s; animation-delay: 0s;">a</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1s;">1</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="12" fill="orange"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6.5s; animation-delay: 0.2s;">e</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="18" fill="red"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 9.5s; animation-delay: 0.8s;">C</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="12" fill="white"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9.2s; animation-delay: 1.2s;">J</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="18" fill="red"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8.8s; animation-delay: 0.4s;">U</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="18" fill="orange"
+    style="animation-duration: 6.5s; animation-delay: 0.9s;">W</text>
+  <text class="falling" x="350" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 6.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="350" y="0" font-family="mwonospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0s;">e</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">H</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">C</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">l</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">l</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">?</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="400" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+
+<!-- Chars Down -->
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="12" fill="red"
+    style="animation-duration: 14s; animation-delay: 0s;">!</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1s;">1</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="12" fill="orange"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6.5s; animation-delay: 0.2s;">?</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="18" fill="red"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 9.5s; animation-delay: 0.8s;">C</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="12" fill="purple"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9.2s; animation-delay: 1.2s;">$</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="18" fill="orange"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8.8s; animation-delay: 0.4s;">£</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="12" fill="brown"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6.5s; animation-delay: 0.9s;">H</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 6.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="450" y="0" font-family="monospace" font-size="18" fill="crimson"
+    style="animation-duration: 9.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0s;">$</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">£</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">C</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">?</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">E</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">!</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="500" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+
+<!-- Chars Down -->
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="12" fill="red"
+    style="animation-duration: 14s; animation-delay: 0s;">w</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="18" fill="darksalmon"
+    style="animation-duration: 8s; animation-delay: 1s;">1</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="18" fill="brown"
+    style="animation-duration: 6.5s; animation-delay: 0.2s;">Z</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="12" fill="orange"
+    style="animation-duration: 9.5s; animation-delay: 0.8s;">?</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="18" fill="purple"
+    style="animation-duration: 9.2s; animation-delay: 1.2s;">G</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="12" fill="red"
+    style="animation-duration: 8.8s; animation-delay: 0.4s;">E</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="18" fill="crimson"
+    style="animation-duration: 6.5s; animation-delay: 0.9s;">M</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 6.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="550" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0s;">H</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">e</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">l</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">l</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">o</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">!</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="600" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+
+<!-- Chars Down -->
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="red"
+    style="animation-duration: 6s; animation-delay: 0s;">A</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="orange"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">G</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="crimson"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">M</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="darksalmon"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">D</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="brown"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">z</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="cyan"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">h</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="650" y="0" font-family="monospace" font-size="18" fill="orange"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 10s; animation-delay: 0s;">l</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1.5s;">1</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">j</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1.5s;">1</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.8s;">C</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1.3s;">1</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">s</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1.6s;">1</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">o</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1.4s;">1</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.9s;">F</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="700" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1.6s;">1</text>
+
+<!-- Chars Down -->
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="12" fill="red"
+    style="animation-duration: 14s; animation-delay: 0s;">t</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1s;">1</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="18" fill="orange"
+    style="animation-duration: 6.5s; animation-delay: 0.2s;">w</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="18" fill="cyan"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 9.5s; animation-delay: 0.8s;">a</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="12" fill="darksalmon"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9.2s; animation-delay: 1.2s;">r</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="18" fill="brown"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8.8s; animation-delay: 0.4s;">E</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="18" fill="red"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6.5s; animation-delay: 0.9s;">F</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="12" fill="yellow"
+    style="animation-duration: 6.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="750" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0s;">i</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">p</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">t</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">D</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">Q</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">H</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="800" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+
+<!-- Chars Down -->	
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="12" fill="red"
+    style="animation-duration: 14s; animation-delay: 0s;">A</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1s;">1</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="18" fill="orange"
+    style="animation-duration: 6.5s; animation-delay: 0.2s;">S</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="12" fill="purple"
+    style="animation-duration: 9.5s; animation-delay: 0.8s;">X</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="18" fill="yellow"
+    style="animation-duration: 9.2s; animation-delay: 1.2s;">D</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="12" fill="darksalmon"
+    style="animation-duration: 8.8s; animation-delay: 0.4s;">Z</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="12" fill="cyan"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6.5s; animation-delay: 0.9s;">M</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 6.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="850" y="0" font-family="monospace" font-size="18" fill="orange"
+    style="animation-duration: 9.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0s;">G</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">V</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">m</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">R</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">K</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">L</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="900" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+
+<!-- Chars Down -->	
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="12" fill="red"
+    style="animation-duration: 14s; animation-delay: 0s;">a</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1s;">1</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="18" fill="brown"
+    style="animation-duration: 6.5s; animation-delay: 0.2s;">e</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="18" fill="darksalmon"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 9.5s; animation-delay: 0.8s;">C</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="12" fill="cyan"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9.2s; animation-delay: 1.2s;">J</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="18" fill="yellow"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8.8s; animation-delay: 0.4s;">U</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="18" fill="pink"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6.5s; animation-delay: 0.9s;">W</text>
+  <text class="falling" x="950" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 6.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="950" y="0" font-family="mwonospace" font-size="18" fill="red"
+    style="animation-duration: 9.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0s;">e</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">H</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">C</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">l</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">l</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">?</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="1000" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+
+<!-- Chars Down -->	
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="12" fill="red"
+    style="animation-duration: 14s; animation-delay: 0s;">!</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1s;">1</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="12" fill="yellow"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6.5s; animation-delay: 0.2s;">?</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="12" fill="orange"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 9.5s; animation-delay: 0.8s;">C</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="18" fill="darksalmon"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 9.2s; animation-delay: 1.2s;">$</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="12" fill="brown"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="12" fill="yellow"
+    style="animation-duration: 8.8s; animation-delay: 0.4s;">£</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="18" fill="white"
+    style="animation-duration: 6.5s; animation-delay: 0.9s;">H</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 6.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="1050" y="0" font-family="monospace" font-size="18" fill="pink"
+    style="animation-duration: 9.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0s;">$</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">£</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">C</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">?</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">E</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">!</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="1100" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+
+<!-- Chars Down -->
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="12" fill="red"
+    style="animation-duration: 14s; animation-delay: 0s;">w</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 1s;">1</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="18" fill="yellow"
+    style="animation-duration: 6.5s; animation-delay: 0.2s;">Z</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="12" fill="orange"
+    style="animation-duration: 9.5s; animation-delay: 0.8s;">?</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 7s; animation-delay: 1s;">1</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 8s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="18" fill="cyan"
+    style="animation-duration: 9.2s; animation-delay: 1.2s;">G</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="12" fill="darksalmon"
+    style="animation-duration: 8.8s; animation-delay: 0.4s;">E</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 13s; animation-delay: 1s;">1</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="12" fill="white"
+    style="animation-duration: 15s; animation-delay: 0.5s;">0</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6.5s; animation-delay: 0.9s;">M</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="12" fill="limegreen"
+    style="animation-duration: 6.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling" x="1150" y="0" font-family="monospace" font-size="18" fill="blue"
+    style="animation-duration: 9.7s; animation-delay: 1.1s;">1</text>
+	
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0s;">H</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.2s;">e</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.5s; animation-delay: 0.8s;">l</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.2s; animation-delay: 1.2s;">l</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.8s; animation-delay: 0.4s;">o</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4s; animation-delay: 1s;">1</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 6s; animation-delay: 0.5s;">0</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.1s; animation-delay: 0.9s;">!</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 3.6s; animation-delay: 0.3s;">0</text>
+  <text class="falling2" x="1200" y="0" font-family="monospace" font-size="18" fill="limegreen"
+    style="animation-duration: 4.7s; animation-delay: 1.1s;">1</text>
+</svg>
