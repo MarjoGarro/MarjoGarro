@@ -183,7 +183,7 @@
 </br>
   	<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarjoGarro&theme=react-dark" width="100%" />
 </br>
-	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/ocean.svg" alt="GitHub Snake" width="100%"/>
+	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/ocean_green.svg" alt="GitHub Snake" width="100%"/>
 </div>
 
 <hr>
