@@ -1,5 +1,5 @@
 <div style="margin-bottom:10px; margin:top:10px; height:200px">
-	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/Matrix_Data_Rain.svg" alt="Matrix rain" width="100%"/>
+	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/Matrix_Data_Rain_Colorful.svg" alt="Matrix rain" width="100%"/>
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MarjoGarro.MarjoGarro" alt="visitor badge"/>
