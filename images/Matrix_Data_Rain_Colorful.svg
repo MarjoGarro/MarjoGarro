@@ -6,9 +6,9 @@
     xmlns="http://www.w3.org/2000/svg"
     style="background-color: black;">
 
-<text x="50%" y="50%" font-family="Brush Script MT" font-size="45" text-anchor="middle" dominant-baseline="middle" fill="DodgerBlue">
-<tspan fill="" font-weight="bold" font-style="italic">Hi, I'm Marjo Garro</tspan>
-<tspan x="50%" dy="1.2em" fill="" font-weight="bold" font-style="italic">Welcome to my profile</tspan></text>
+<text x="50%" y="50%" font-family="Brush Script MT" font-size="42" text-anchor="middle" dominant-baseline="middle" fill="DodgerBlue">
+<tspan fill="Brush Script MT" font-weight="bold" font-style="italic">Hi, I'm Marjo Garro</tspan>
+<tspan x="50%" dy="1.2em" fill="Brush Script MT" font-weight="bold" font-style="italic">Welcome to my profile</tspan></text>
 	
   <style type="text/css"><![CDATA[
     @keyframes fall {
