@@ -174,12 +174,6 @@
   <h2 align="center">⚡ Stats ⚡</h2>
 
 <div style="margin-bottom:10px; margin:top:10px; height:180px">
-	<p valign="top" width="48%" height="200px">
-	    <a href="#" title="Go to Source"> <img align="left" width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MarjoGarro" /></a>
-	</p>
-	<p valign="top" width="48%;" height="200px">
-	    <a href="#"> <img align="right" width="45%" height="180px" src="https://git-hub-streak-stats.vercel.app?user=MarjoGarro" /> </a>
-	</p>
 </br>
   	<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarjoGarro&theme=react-dark" width="100%" />
 </br>
