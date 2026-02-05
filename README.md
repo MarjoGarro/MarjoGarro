@@ -16,15 +16,15 @@
   </h5>
   <br>
   <p align="center">
-    ⚡ I'm a Software Developer!
+    ⚡ I'm a software developer!
     <br>
-    🎓 I have studied Mechatronics
+    🎓 I have a background in mechatronics
     <br>
-    🐧 I’m currently working with Real Time Linux && Web Front/Back-End programming
+    🐧 I’m currently working with Real-Time Linux && front-end/back-end Web Development
     <br>
-    💻 Since a child I was fascinated by computers and software programming 
+    💻 I’ve been fascinated by computers and programming since I was a child
     <br>
-    📚 I love Software Engineering and keep learning daily about new technologies
+    📚 I love software engineering and keep learning about new technologies every day
     <br>
     💬 Ask me anything about <a href="https://github.com/MarjoGarro/MarjoGarro/issues" title="Issues">here</a>
     <br>
