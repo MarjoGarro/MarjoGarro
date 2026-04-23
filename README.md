@@ -10,22 +10,10 @@
     </a>
   </h1>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://www.linkedin.com/in/marjo-garro/" target="_blank">
-        <img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg" width="32"/><br>
-        <h5><code> LinkedIn </code></h5>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="https://www.credly.com/users/marjo-garro/" target="_blank">
-        <img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png" width="42"/><br>
-        <h5><code> Credly </code></h5>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marjo-garro/" target="_blank"><img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg" width="32"/><br><h5><code> LinkedIn </code></h5></a><a href="https://www.credly.com/users/marjo-garro/" target="_blank"><img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png" width="42"/><br><h5><code> Credly </code></h5></a>
+</p>
 
   <br>
   <p align="center">
