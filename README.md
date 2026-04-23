@@ -12,16 +12,16 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" border="0">
       <a href="https://www.linkedin.com/in/marjo-garro/" target="_blank">
         <img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg" width="32"/><br>
-        LinkedIn
+        <h5><code> LinkedIn </code></h5>
       </a>
     </td>
-    <td align="center">
+    <td align="center" border="0">
       <a href="https://www.credly.com/users/marjo-garro/" target="_blank">
-        <img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png" width="32"/><br>
-        Credly
+        <img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png" width="40"/><br>
+        <h5><code> Credly </code></h5>
       </a>
     </td>
   </tr>
