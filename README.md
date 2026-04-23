@@ -10,12 +10,31 @@
     </a>
   </h1>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/marjo-garro/" target="_blank">
+        <img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg" width="32"/><br>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/users/marjo-garro/" target="_blank">
+        <img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png" width="32"/><br>
+        Credly
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--
 <p align="center">
 	<a href="https://www.linkedin.com/in/marjo-garro/" title="LinkedIn Profile" target="_blank">
-		<img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg"><h5> LinkedIn </h5></a>
+		<img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg"> LinkedIn </a>
 	<a href="https://www.credly.com/users/marjo-garro/" title="Credly Profile" target="_blank">
-		<img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png"><h5> Credly </h5></a>
+		<img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png"> Credly </a>
 </p>
+-->
 
   <br>
   <p align="center">
