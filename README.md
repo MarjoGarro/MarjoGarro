@@ -10,25 +10,13 @@
     </a>
   </h1>
 
-<h5 align="center">
-  <code>
+<p align="center">
 	<a href="https://www.linkedin.com/in/marjo-garro/" title="LinkedIn Profile" target="_blank">
-	  <img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg" width="32" height="20" alt="LinkedIn"/> LinkedIn
-	</a>
-  </code>
-  <code>
+		<img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg"><h5> LinkedIn </h5></a>
 	<a href="https://www.credly.com/users/marjo-garro/" title="Credly Profile" target="_blank">
-	  <img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png" width="32" height="20" alt="Credly"/> Credly
-	</a>
-  </code>
-</h5>
+		<img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png"><h5> Credly </h5></a>
+</p>
 
-<!--
-<h5 align="center">
-    <code><a href="https://www.linkedin.com/in/marjo-garro/" title="LinkedIn Profile" target="_blank"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg"> LinkedIn </a></code>
-    <code><a href="https://www.credly.com/users/marjo-garro/" title="Credly Profile" target="_blank"><img width="32" height="20" src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png"> Credly</a></code>
-</h5>
--->
   <br>
   <p align="center">
     ⚡ I'm a software developer!
