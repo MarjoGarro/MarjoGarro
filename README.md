@@ -12,7 +12,9 @@
 
 
 <h5 align="center">
-	<a href="https://www.linkedin.com/in/marjo-garro/" target="_blank"><img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg" width="32"/><br><h5><code> LinkedIn </code></h5></a><a href="https://www.credly.com/users/marjo-garro/" target="_blank"><img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png" width="42"/><br><h5><code> Credly </code></h5></a>
+	<a href="https://www.linkedin.com/in/marjo-garro/" target="_blank"><img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg" width="32"/><br><h5><code> LinkedIn </code></h5></a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.credly.com/users/marjo-garro/" target="_blank"><img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png" width="42"/><br><h5><code> Credly </code></h5></a>
 </h5>
 
 <br>
