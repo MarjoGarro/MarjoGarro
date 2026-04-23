@@ -1,3 +1,4 @@
+<!--
 <div style="margin-bottom:10px; margin-top:10px; height:200px">
 	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/Matrix_Data_Rain_Colorful.svg" alt="Matrix rain" width="100%"/>
 </div>
@@ -44,13 +45,14 @@
   <hr>
   <h3 align="center">✨ Programming languages and tools in which I have basic and proficient knowledge ✨</h3>
   <br>
-  <p align="center">
+-->
+<p align="center">
 	<a href="https://en.cppreference.com/w/" target="_blank">
-      <img
+      <img 
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
         alt="C++"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
     <a href="https://en.cppreference.com/w/c" target="_blank">
@@ -58,7 +60,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
         alt="C"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
 	<a href="https://w3cx.org/" target="_blank">
@@ -66,7 +68,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
         alt="html5"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
 	<a href="https://www.qt.io/" target="_blank">
@@ -74,7 +76,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"
         alt="qt"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
 	<a href="https://visualstudio.microsoft.com/" target="_blank">
@@ -82,7 +84,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
         alt="visual studio"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>	
     <a href="https://w3cx.org/" target="_blank">
@@ -90,7 +92,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
         alt="css3"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -98,7 +100,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
         alt="javascript"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
 	<a href="https://www.kernel.org/" target="_blank">
@@ -106,7 +108,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
         alt="Linux"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
 	<a href="https://git-scm.com/" target="_blank">
@@ -114,7 +116,7 @@
 		src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
         alt="git"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
@@ -122,7 +124,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
         alt="vscode"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
 	<a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/" target="_blank">
@@ -130,7 +132,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
         alt="C#"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
 	<a href="https://www.mysql.com/" target="_blank">
@@ -138,7 +140,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
     <a href="https://www.php.net/" target="_blank">
@@ -146,7 +148,7 @@
         src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg"
         alt="php"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
     <a href="https://www.python.org" target="_blank">
@@ -154,7 +156,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
     <a href="https://jquery.com/" target="_blank">
@@ -162,10 +164,10 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
         alt="jquery"
         width="40"
-        height="40"
+        height="40" 
       />
     </a>
-  </p>
+</p>
   <hr>
   <h2 align="center">⚡ Stats ⚡</h2>
 
