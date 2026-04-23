@@ -4,18 +4,18 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MarjoGarro.MarjoGarro" alt="visitor badge"/>
 
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There+👋;Nice+to+see+you+here!&center=true&size=30">
-    </a>
-  </h1>
+<h1 align="center">
+	<a href="https://git.io/typing-svg">
+  		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There+👋;Nice+to+see+you+here!&center=true&size=30">
+	</a>
+</h1>
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marjo-garro/" target="_blank"><img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg" width="32"/><br><h5><code> LinkedIn </code></h5></a><a href="https://www.credly.com/users/marjo-garro/" target="_blank"><img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png" width="42"/><br><h5><code> Credly </code></h5></a>
-</p>
+<h5 align="center">
+	<a href="https://www.linkedin.com/in/marjo-garro/" target="_blank"><img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/linkedin.svg" width="32"/><br><h5><code> LinkedIn </code></h5></a><a href="https://www.credly.com/users/marjo-garro/" target="_blank"><img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/credly.png" width="42"/><br><h5><code> Credly </code></h5></a>
+</h5>
 
-  <br>
+<br>
   <p align="center">
     ⚡ I'm a software developer!
     <br>
