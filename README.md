@@ -1,4 +1,4 @@
-<div style="margin-bottom:10px; margin:top:10px; height:200px">
+<div style="margin-bottom:10px; margin-top:10px; height:200px">
 	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/Matrix_Data_Rain_Colorful.svg" alt="Matrix rain" width="100%"/>
 </div>
 
@@ -159,10 +159,10 @@
   <hr>
   <h2 align="center">⚡ Stats ⚡</h2>
 
-<div style="margin-bottom:10px; margin:top:10px; height:180px">
-</br>
+<div style="margin-bottom:10px; margin-top:10px; height:180px">
+<br>
   	<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarjoGarro&theme=react-dark" width="100%" />
-</br>
+<br>
 	<img src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/ocean_green.svg" alt="GitHub Snake" width="100%"/>
 </div>
 
