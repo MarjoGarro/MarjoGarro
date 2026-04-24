@@ -45,8 +45,8 @@
   <h3 align="center">✨ Programming languages and tools in which I have basic and proficient knowledge ✨</h3>
   <br>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-	<!-- <p align="center"> -->
+<div>
+	<p align="center" style="white-space:nowrap;">
 		<a href="https://en.cppreference.com/w/" target="_blank">
 	      <img 
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
@@ -167,7 +167,7 @@
 	        height="40" 
 	      />
 	    </a>
-	<!-- </p> -->
+	</p>
 </div>
   <hr>
   <h2 align="center">⚡ Stats ⚡</h2>
