@@ -52,8 +52,8 @@
 		      <img 
 				src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 		        alt="C++"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -61,8 +61,8 @@
 		      <img
 		        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 		        alt="C"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -70,8 +70,8 @@
 		      <img
 		        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
 		        alt="html5"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -79,8 +79,8 @@
 		      <img
 		        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"
 		        alt="qt"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -88,8 +88,8 @@
 		      <img
 		        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
 		        alt="visual studio"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -97,8 +97,8 @@
 		      <img
 		        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
 		        alt="css3"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -106,8 +106,8 @@
 		      <img
 		        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 		        alt="javascript"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -115,8 +115,8 @@
 		      <img
 		        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 		        alt="Linux"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -124,8 +124,8 @@
 		      <img
 				src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
 		        alt="git"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -133,8 +133,8 @@
 		      <img
 		        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 		        alt="vscode"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -142,8 +142,8 @@
 		      <img
 		        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 		        alt="C#"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -151,8 +151,8 @@
 		      <img
 		        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 		        alt="mysql"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -160,8 +160,8 @@
 		      <img
 		        src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg"
 		        alt="php"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -169,8 +169,8 @@
 		      <img
 		        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 		        alt="python"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span><span style="display:inline-block">
@@ -178,15 +178,15 @@
 		      <img
 		        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
 		        alt="jquery"
-		        width="40"
-		        height="40" 
+		        width="16"
+		        height="16" 
 		      />
 		    </a>&nbsp;
 		</span>
 	</p>
 </div>
-  <hr>
-  <h2 align="center">⚡ Stats ⚡</h2>
+<hr>
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <div style="margin-bottom:10px; margin-top:10px; height:180px">
 <br>
