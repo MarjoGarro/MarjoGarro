@@ -46,7 +46,7 @@
   <br>
 
 <div>
-	<p align="center" style="white-space:nowrap;">
+	<p align="center">
 		<a href="https://en.cppreference.com/w/" target="_blank">
 	      <img 
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
@@ -54,7 +54,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 	    <a href="https://en.cppreference.com/w/c" target="_blank">
 	      <img
 	        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
@@ -62,7 +62,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 		<a href="https://w3cx.org/" target="_blank">
 	      <img
 	        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
@@ -70,7 +70,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 		<a href="https://www.qt.io/" target="_blank">
 	      <img
 	        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg"
@@ -78,7 +78,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 		<a href="https://visualstudio.microsoft.com/" target="_blank">
 	      <img
 	        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
@@ -86,7 +86,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>	
+	    </a>&nbsp;
 	    <a href="https://w3cx.org/" target="_blank">
 	      <img
 	        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
@@ -94,7 +94,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 	      <img
 	        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
@@ -102,7 +102,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 		<a href="https://www.kernel.org/" target="_blank">
 	      <img
 	        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
@@ -110,7 +110,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 		<a href="https://git-scm.com/" target="_blank">
 	      <img
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
@@ -118,7 +118,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 	    <a href="https://code.visualstudio.com/" target="_blank">
 	      <img
 	        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
@@ -126,7 +126,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 		<a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/" target="_blank">
 	      <img
 	        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
@@ -134,7 +134,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 		<a href="https://www.mysql.com/" target="_blank">
 	      <img
 	        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
@@ -142,7 +142,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 	    <a href="https://www.php.net/" target="_blank">
 	      <img
 	        src="https://github.com/devicons/devicon/raw/master/icons/php/php-original.svg"
@@ -150,7 +150,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 	    <a href="https://www.python.org" target="_blank">
 	      <img
 	        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -158,7 +158,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 	    <a href="https://jquery.com/" target="_blank">
 	      <img
 	        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
@@ -166,7 +166,7 @@
 	        width="40"
 	        height="40" 
 	      />
-	    </a>
+	    </a>&nbsp;
 	</p>
 </div>
   <hr>
