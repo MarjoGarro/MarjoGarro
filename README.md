@@ -26,15 +26,13 @@
 
 <br>
   <p align="center">
-    ⚡ I'm a software developer!
+    🎓 I have a mechatronics background and enjoy bridging software and industrial automation
     <br>
-    🎓 I have a background in mechatronics
+    💻 I've been fascinated by computers and software development since I was a child
     <br>
-    🐧 I’m currently working with Real-Time Linux && front-end/back-end Web Development
+    🐧 My goal is to build a broad technical foundation across software, Linux, industrial automation and web technologies
     <br>
-    💻 I’ve been fascinated by computers and programming since I was a child
-    <br>
-    📚 I love software engineering and keep learning about new technologies every day
+    📚 Always learning, experimenting, and building with new technologies
     <br>
     💬 Ask me anything about <a href="https://github.com/MarjoGarro/MarjoGarro/issues" title="Issues">here</a>
     <br>
@@ -42,7 +40,7 @@
   </p>
 
   <hr>
-  <h3 align="center">✨ Programming languages and tools in which I have basic and proficient knowledge ✨</h3>
+  <h3 align="center">✨ Programming languages & technologies I'm familiar with ✨</h3>
   <br>
 
 <div>
@@ -145,10 +143,10 @@
 			width="40"
 			height="40" 
 		  />
-		</a>&nbsp;<a href="https://jquery.com/" target="_blank">
+		</a>&nbsp;<a href="https://www.docker.com/" target="_blank">
 		  <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
-			alt="jquery"
+			src="https://raw.githubusercontent.com/MarjoGarro/MarjoGarro/main/images/docker-new-blue.svg"
+			alt="Docker"
 			width="40"
 			height="40" 
 		  />
